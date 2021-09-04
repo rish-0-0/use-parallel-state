@@ -1,10 +1,12 @@
 {
+  "type": "module",
   "name": "use-parallel-state",
   "version": "0.0.0",
   "description": "React use parallel state hook",
   "main": "dist/index.js",
   "scripts": {
-    "test": "mocha --exit"
+    "test": "mocha --exit",
+    "tsc": "npx tsc -p"
   },
   "repository": {
     "type": "git",
@@ -25,5 +27,8 @@
   "bugs": {
     "url": "https://github.com/rish-0-0/use-parallel-state/issues"
   },
-  "homepage": "https://github.com/rish-0-0/use-parallel-state#readme"
+  "homepage": "https://github.com/rish-0-0/use-parallel-state#readme",
+  "devDependencies": {
+    "typescript": "^4.4.2"
+  }
 }
