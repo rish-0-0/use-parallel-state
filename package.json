@@ -1,0 +1,29 @@
+{
+  "name": "use-parallel-state",
+  "version": "0.0.0",
+  "description": "React use parallel state hook",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "mocha --exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rish-0-0/use-parallel-state.git"
+  },
+  "keywords": [
+    "comlink",
+    "actor",
+    "model",
+    "react",
+    "parallel",
+    "workers",
+    "state",
+    "redux"
+  ],
+  "author": "Rishabh Anand",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rish-0-0/use-parallel-state/issues"
+  },
+  "homepage": "https://github.com/rish-0-0/use-parallel-state#readme"
+}
