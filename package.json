@@ -4,6 +4,7 @@
   "version": "0.0.0",
   "description": "React use parallel state hook",
   "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
     "test": "mocha --exit",
     "tsc": "npx tsc -p"
